@@ -15,7 +15,7 @@
   
   
 # Configure
-open `database/migrate.py` and edit  `user`, `passwd`, `database name` and `table name`
+open `database/migrate.py` and edit  `localhost`, `username`, `password`, `database name` and `table name`
 
 # Usage  
 ```
